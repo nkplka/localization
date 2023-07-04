@@ -1,0 +1,13 @@
+{
+  "log_messages": {
+    "detected_launch": "Обнаружен запуск приложения: {applicationName}",
+    "no_admin_privileges": "Приложение запущено без прав администратора",
+    "config_created": "Файл конфигурации создан.",
+    "config_error": "Ошибка: Имя приложения не найдено в файле конфигурации.",
+    "app_name": "Имя приложения: {appName}"
+  },
+  "console_messages": {
+    "hide_console_true": "Окно консоли скрыто.",
+    "hide_console_false": "Окно консоли отображено."
+  }
+}
