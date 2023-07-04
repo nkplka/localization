@@ -1,0 +1,13 @@
+{
+  "log_messages": {
+    "detected_launch": "Detected launch of application: {applicationName}",
+    "no_admin_privileges": "Application launched without admin privileges",
+    "config_created": "Config file created.",
+    "config_error": "Error: App name not found in config file.",
+    "app_name": "App Name: {appName}"
+  },
+  "console_messages": {
+    "hide_console_true": "Console window hidden.",
+    "hide_console_false": "Console window shown."
+  }
+}
